@@ -1,0 +1,821 @@
+{
+  "devotionals": [
+    {
+      "id": "fe-1",
+      "title": "Fe cuando no entiendes el camino",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 5,
+      "verse": "Proverbios 3:5-6 — Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+      "content": "La fe no siempre se desarrolla cuando todo en la vida parece claro y bajo control. En muchas ocasiones, la fe auténtica nace precisamente cuando el camino se vuelve confuso y las respuestas no llegan de inmediato. Como seres humanos, deseamos entender cada situación y sentir seguridad antes de avanzar, pero Dios nos llama a confiar incluso cuando nuestra comprensión es limitada.\n\nConfiar en Dios significa aceptar que Su perspectiva es mucho más amplia que la nuestra. Mientras nosotros vemos solo una parte del proceso, Él contempla el inicio y el final. Cuando una situación no tiene sentido para nosotros, Dios está obrando en áreas profundas de nuestro carácter, enseñándonos a depender más de Él.\n\nLa fe no consiste en ignorar las dificultades, sino en decidir apoyarnos en las promesas de Dios por encima de nuestra lógica. Cada vez que eliges confiar en medio de la incertidumbre, tu fe se fortalece.\n\nHoy, aunque no entiendas el rumbo de tu vida, recuerda que Dios no te pide comprenderlo todo, sino confiar. Cuando lo haces, Él se encarga de enderezar tus caminos.",
+      "prayer": "Señor, ayúdame a confiar en Ti aun cuando no entiendo el camino que estoy recorriendo.",
+      "premium": false
+    },
+    {
+      "id": "fe-2",
+      "title": "Fe que permanece en la espera",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 5,
+      "verse": "Salmos 27:14 — Aguarda a Jehová; esfuérzate, y aliéntese tu corazón; sí, espera a Jehová.",
+      "content": "Esperar es una de las pruebas más difíciles para la fe. Cuando oramos y no vemos respuestas inmediatas, el desánimo puede tocar nuestro corazón. Sin embargo, Dios utiliza los tiempos de espera para fortalecernos espiritualmente.\n\nLa espera no significa que Dios esté ausente. Al contrario, muchas veces es en ese silencio donde Él trabaja con mayor profundidad. Dios usa la espera para enseñarnos paciencia, confianza y dependencia total en Él.\n\nEsperar con fe implica mantener una actitud confiada, aun cuando no vemos resultados visibles. Cada día de espera tiene un propósito y forma parte del plan de Dios.\n\nLa Biblia nos anima a esforzarnos y a mantener el ánimo mientras aguardamos. Dios nunca llega tarde y siempre actúa en el momento perfecto.\n\nSi hoy estás esperando una respuesta, no te rindas. Permanece firme, porque Dios sigue obrando incluso cuando no lo ves.",
+      "prayer": "Señor, fortalece mi fe mientras espero en Ti.",
+      "premium": false
+    },
+    {
+      "id": "fe-3",
+      "title": "Fe que vence el temor",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800",
+      "readTime": 5,
+      "verse": "Isaías 41:10 — No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+      "content": "El temor es una emoción común que todos enfrentamos en algún momento. Sin embargo, la fe en Dios nos permite enfrentarlo con confianza. Dios promete Su presencia constante aun en medio de las circunstancias más difíciles.\n\nVencer el temor no significa no sentirlo, sino decidir no permitir que gobierne nuestras decisiones. Cuando confiamos en Dios, recordamos que Su poder es mayor que cualquier miedo.\n\nLa fe nos ayuda a cambiar nuestra perspectiva, enfocándonos en Dios y no en el problema. Cada paso de fe debilita el temor.\n\nHoy entrega tus miedos a Dios. Su mano poderosa te sostiene y Su amor te da paz.",
+      "prayer": "Señor, ayúdame a confiar en Ti y a no dejarme dominar por el temor.",
+      "premium": false
+    },
+
+    {
+      "id": "fe-4",
+      "title": "Fe que se fortalece en la prueba",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "readTime": 6,
+      "verse": "Santiago 1:2-3 — Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia.",
+      "content": "Las pruebas no llegan para destruir nuestra fe, sino para fortalecerla. Aunque el dolor no es fácil de enfrentar, Dios lo utiliza como una herramienta de crecimiento espiritual.\n\nCuando atravesamos pruebas, aprendemos a confiar más profundamente en Dios. Él no permite ninguna dificultad sin un propósito.\n\nLa fe madura se desarrolla cuando decidimos creer aun en medio del sufrimiento. Cada prueba superada fortalece nuestra relación con Dios.\n\nPermite que tu fe crezca en medio de la dificultad y confía en que Dios está obrando.",
+      "prayer": "Señor, fortalece mi fe en medio de las pruebas.",
+      "premium": true
+    },
+    {
+      "id": "fe-5",
+      "title": "Fe que descansa en las promesas de Dios",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800",
+      "readTime": 6,
+      "verse": "Números 23:19 — Dios no es hombre, para que mienta, ni hijo de hombre para que se arrepienta. Él dijo, ¿y no hará? Habló, ¿y no lo ejecutará?",
+      "content": "Las promesas de Dios son firmes y verdaderas. A diferencia de las promesas humanas, las de Dios nunca fallan.\n\nLa fe aprende a descansar en Su palabra aun cuando las circunstancias parecen contrarias. Dios cumple todo lo que promete.\n\nConfiar en Sus promesas nos llena de paz y esperanza. Su fidelidad es eterna.\n\nHoy decide descansar en lo que Dios ha dicho.",
+      "prayer": "Señor, ayúdame a confiar en Tus promesas.",
+      "premium": true
+    },
+    {
+      "id": "fe-6",
+      "title": "Fe que obedece sin ver",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800",
+      "readTime": 6,
+      "verse": "Hebreos 11:8 — Por la fe Abraham obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba.",
+      "content": "La obediencia es una expresión profunda de la fe. Dios muchas veces nos llama a dar pasos sin conocer el resultado.\n\nObedecer demuestra que confiamos en Su sabiduría más que en la nuestra. Dios siempre guía a quienes confían en Él.\n\nCada paso de obediencia fortalece nuestra fe y nos acerca a Su propósito.\n\nHoy permite que tu fe te lleve a obedecer.",
+      "prayer": "Señor, dame un corazón dispuesto a obedecer.",
+      "premium": true
+    },
+    {
+      "id": "fe-7",
+      "title": "Fe que confía en el tiempo de Dios",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Eclesiastés 3:1 — Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora.",
+      "content": "Confiar en el tiempo de Dios requiere paciencia. Dios obra conforme a un plan perfecto.\n\nLa fe aprende a esperar con paz, sabiendo que Dios nunca se retrasa.\n\nCada etapa tiene un propósito y Dios está trabajando aun cuando no lo vemos.\n\nDescansa en Su tiempo.",
+      "prayer": "Señor, ayúdame a confiar en Tu tiempo.",
+      "premium": true
+    },
+    {
+      "id": "fe-8",
+      "title": "Fe que persevera cuando todo falla",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "2 Corintios 5:7 — Porque por fe andamos, no por vista.",
+      "content": "Cuando todo parece fallar, la fe nos sostiene. Nuestra confianza no depende de lo que vemos, sino de Dios.\n\nPerseverar fortalece el carácter y afirma nuestra fe.\n\nDios nunca abandona a quienes confían en Él.\n\nSigue caminando por fe.",
+      "prayer": "Señor, ayúdame a caminar por fe.",
+      "premium": true
+    },
+    {
+      "id": "fe-9",
+      "title": "Fe que transforma el corazón",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Romanos 10:17 — Así que la fe es por el oír, y el oír, por la palabra de Dios.",
+      "content": "La fe transforma nuestro interior cuando escuchamos la palabra de Dios.\n\nDios utiliza Su palabra para renovar nuestro corazón.\n\nUna fe viva produce cambios duraderos.\n\nPermite que Dios transforme tu vida.",
+      "prayer": "Señor, transforma mi corazón por medio de Tu palabra.",
+      "premium": true
+    },
+    {
+      "id": "fe-10",
+      "title": "Fe que confía aun en la incertidumbre",
+      "category": "fe",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Salmos 56:3 — En el día que temo, yo en Ti confío.",
+      "content": "La incertidumbre no desaparece, pero la fe nos da paz.\n\nConfiar en Dios nos llena de seguridad aun sin respuestas.\n\nDios sigue teniendo el control.\n\nHoy decide confiar en Él.",
+      "prayer": "Señor, en medio de la incertidumbre, confío en Ti.",
+      "premium": true
+    }
+  ]
+}
+{
+      "id": "esperanza-1",
+      "title": "Esperanza cuando el corazón se cansa",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Isaías 40:31 — Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+      "content": "Hay momentos en la vida en los que el cansancio no es solo físico, sino también emocional y espiritual. El corazón se agota de esperar respuestas, soluciones o cambios que parecen no llegar. En esos momentos, la esperanza puede parecer lejana, pero es precisamente ahí donde Dios desea renovar nuestras fuerzas.\n\nLa esperanza bíblica no se basa en circunstancias favorables, sino en la fidelidad de Dios. Esperar en el Señor no significa resignarse, sino confiar activamente en que Él sigue obrando aun cuando no lo vemos. Dios conoce cada carga que llevas y cada lágrima que has derramado en silencio.\n\nCuando el corazón se cansa, Dios promete renovar nuestras fuerzas. No lo hace siempre quitando la dificultad de inmediato, sino dándonos la fortaleza necesaria para seguir adelante. La esperanza nos levanta, nos impulsa a continuar y nos recuerda que nuestra historia no ha terminado.\n\nDios no ignora tu cansancio ni minimiza tu dolor. Él camina contigo en el proceso y te sostiene cuando sientes que ya no puedes más. La esperanza en Dios produce descanso interior y nos permite avanzar con confianza.\n\nHoy, si te sientes cansado, decide esperar en el Señor. Permite que Él renueve tus fuerzas y llene tu corazón de esperanza. Dios sigue teniendo el control y Su ayuda llegará en el momento justo.",
+      "prayer": "Señor, renueva mis fuerzas y lléname de esperanza cuando mi corazón se siente cansado.",
+      "premium": false
+    },
+    {
+      "id": "esperanza-2",
+      "title": "Esperanza en medio de la incertidumbre",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Jeremías 29:11 — Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+      "content": "La incertidumbre puede generar temor y ansiedad, especialmente cuando el futuro parece confuso. No saber qué pasará mañana puede robarnos la paz y llenarnos de preocupación. Sin embargo, la esperanza en Dios nos recuerda que Él sí conoce el futuro y que Sus planes son buenos.\n\nDios no improvisa ni actúa al azar. Cada etapa de nuestra vida forma parte de un plan mayor, aunque en el momento no lo comprendamos. Cuando confiamos en Él, podemos descansar sabiendo que Sus pensamientos hacia nosotros son de paz y no de mal.\n\nLa esperanza nos permite mirar más allá de la situación actual. Nos recuerda que lo que hoy parece incierto está bajo el control de Dios. Aunque no tengamos todas las respuestas, podemos confiar en Su carácter fiel y amoroso.\n\nDios utiliza incluso los momentos de confusión para guiarnos y enseñarnos. La esperanza nos sostiene mientras aprendemos a depender más de Él y menos de nuestras propias fuerzas.\n\nSi hoy enfrentas incertidumbre, recuerda que Dios ya conoce el final de tu historia. Confía en Él, descansa en Sus promesas y permite que la esperanza llene tu corazón de paz.",
+      "prayer": "Señor, ayúdame a confiar en Tus planes aun cuando no entiendo el futuro.",
+      "premium": false
+    },
+    {
+      "id": "esperanza-3",
+      "title": "Esperanza que renace después de la pérdida",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Lamentaciones 3:31-32 — Porque el Señor no desecha para siempre; antes si aflige, también se compadece según la multitud de sus misericordias.",
+      "content": "La pérdida es una de las experiencias más dolorosas que puede enfrentar el ser humano. Puede tratarse de la pérdida de una persona, un sueño, una relación o una etapa de la vida. En esos momentos, la esperanza parece desaparecer y el dolor ocupa todo el espacio del corazón.\n\nSin embargo, la Palabra de Dios nos recuerda que el sufrimiento no es permanente. Aunque el dolor sea real, la misericordia de Dios es mayor. Él no desecha para siempre ni abandona a quienes confían en Él. Su compasión se renueva aun después de las experiencias más difíciles.\n\nLa esperanza no siempre regresa de inmediato después de una pérdida, pero Dios trabaja pacientemente en nuestro corazón. Poco a poco, Él restaura lo que fue quebrantado y nos ayuda a mirar hacia adelante.\n\nDios camina con nosotros en el duelo y nos ofrece consuelo verdadero. La esperanza renace cuando comprendemos que Dios sigue siendo bueno aun en medio del dolor.\n\nSi hoy estás atravesando una pérdida, entrégale tu dolor a Dios. Permite que Su misericordia sane tu corazón y renueve tu esperanza.",
+      "prayer": "Señor, consuela mi corazón y ayúdame a encontrar esperanza después de la pérdida.",
+      "premium": false
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "esperanza-4",
+      "title": "Esperanza cuando las fuerzas se agotan",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Salmos 42:11 — ¿Por qué te abates, oh alma mía, y te turbas dentro de mí? Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío.",
+      "content": "Hay etapas en la vida en las que el cansancio interior se hace evidente. No siempre es visible para los demás, pero el alma se siente abatida y sin fuerzas. En esos momentos, la esperanza parece debilitarse y la carga emocional se vuelve pesada. Sin embargo, la Palabra de Dios nos recuerda que aun cuando el alma se siente turbada, existe una fuente segura de esperanza.\n\nEsperar en Dios no significa negar el dolor ni fingir fortaleza. Significa reconocer nuestra fragilidad y acudir a Aquel que puede sostenernos. Dios comprende el cansancio del corazón y no nos rechaza por sentirnos débiles. Al contrario, Él nos invita a acercarnos con honestidad.\n\nLa esperanza se fortalece cuando decidimos recordar quién es Dios y lo que ha hecho en nuestra vida. Al mirar atrás, podemos ver Su fidelidad en medio de otras pruebas y comprender que Él no ha cambiado. Su amor sigue siendo constante.\n\nCuando las fuerzas se agotan, Dios renueva el alma con Su presencia. La esperanza nos permite levantar la mirada y creer que este momento no define nuestro futuro.\n\nHoy, si te sientes cansado, espera en Dios. Permite que Él restaure tu ánimo y renueve tu esperanza, recordando que aún hay razones para alabarle.",
+      "prayer": "Señor, cuando mis fuerzas se agotan, ayúdame a esperar en Ti y a renovar mi esperanza.",
+      "premium": true
+    },
+    {
+      "id": "esperanza-5",
+      "title": "Esperanza que sostiene en el sufrimiento",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "Romanos 8:18 — Pues tengo por cierto que las aflicciones del tiempo presente no son comparables con la gloria venidera que en nosotros ha de manifestarse.",
+      "content": "El sufrimiento puede hacer que perdamos de vista el propósito de Dios y nos enfoque solo en el dolor del presente. Sin embargo, la esperanza cristiana nos recuerda que nuestras aflicciones no son el final de la historia. Dios tiene preparada una gloria futura que supera cualquier dificultad actual.\n\nEsperar en medio del sufrimiento no es sencillo, pero es posible cuando confiamos en la promesa de Dios. Él no minimiza nuestro dolor ni ignora nuestras lágrimas. Cada momento difícil tiene valor cuando es entregado en Sus manos.\n\nLa esperanza nos permite ver más allá de la circunstancia actual. Nos recuerda que Dios está formando algo eterno en nosotros, aun cuando el proceso sea doloroso. El sufrimiento no es inútil cuando está bajo el cuidado de Dios.\n\nA través de la esperanza, el corazón encuentra consuelo y fortaleza para continuar. Dios transforma el dolor en crecimiento y utiliza las pruebas para acercarnos más a Él.\n\nSi hoy atraviesas sufrimiento, no pierdas la esperanza. Dios sigue obrando y Su gloria se manifestará en el momento oportuno.",
+      "prayer": "Señor, ayúdame a mantener la esperanza aun en medio del sufrimiento.",
+      "premium": true
+    },
+    {
+      "id": "esperanza-6",
+      "title": "Esperanza que trae consuelo al corazón",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800",
+      "readTime": 6,
+      "verse": "2 Corintios 1:3-4 — Bendito sea el Dios y Padre de nuestro Señor Jesucristo, Padre de misericordias y Dios de toda consolación, el cual nos consuela en todas nuestras tribulaciones.",
+      "content": "El consuelo verdadero no siempre proviene de palabras humanas, sino de la presencia de Dios en medio de nuestras tribulaciones. Cuando el corazón está herido, la esperanza se convierte en un refugio seguro que nos recuerda que no estamos solos.\n\nDios se presenta como el Padre de misericordias, cercano y compasivo. Él conoce cada herida emocional y cada carga invisible que llevamos. Su consuelo no es superficial; llega al fondo del alma y produce sanidad interior.\n\nLa esperanza nos permite recibir ese consuelo y creer que Dios está actuando aun cuando no entendemos el proceso. Al confiar en Él, nuestro corazón encuentra descanso y paz.\n\nAdemás, Dios utiliza nuestro propio consuelo para que podamos consolar a otros. La esperanza que recibimos se convierte en una herramienta de bendición.\n\nHoy permite que Dios consuele tu corazón. Abre tu vida a Su presencia y deja que la esperanza restaure tu interior.",
+      "prayer": "Señor, consuela mi corazón y lléname de Tu esperanza.",
+      "premium": true
+    },
+    {
+      "id": "esperanza-7",
+      "title": "Esperanza cuando las respuestas tardan",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800",
+      "readTime": 6,
+      "verse": "Habacuc 2:3 — Aunque la visión tardare aún por un tiempo, mas se apresura hacia el fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará.",
+      "content": "La espera prolongada puede desgastar la esperanza. Cuando las respuestas no llegan en el tiempo que esperamos, es fácil sentir frustración y desánimo. Sin embargo, Dios nos llama a confiar aun cuando la respuesta parece tardar.\n\nLa esperanza se fortalece cuando aprendemos a esperar con fe. Dios no se retrasa ni olvida Sus promesas. Él obra conforme a Su tiempo perfecto.\n\nCada momento de espera forma nuestro carácter y nos enseña a depender más de Él. Aunque no veamos resultados inmediatos, Dios sigue trabajando.\n\nHoy recuerda que la respuesta llegará en el momento adecuado. Mantén viva tu esperanza y confía en la fidelidad de Dios.",
+      "prayer": "Señor, ayúdame a esperar con esperanza cuando las respuestas tardan.",
+      "premium": true
+    },
+    {
+      "id": "esperanza-8",
+      "title": "Esperanza que ilumina en la oscuridad",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Salmos 119:105 — Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
+      "content": "Hay momentos en los que la vida parece oscura y el camino incierto. En esos momentos, la esperanza actúa como una luz que nos permite avanzar paso a paso.\n\nLa palabra de Dios ilumina nuestro camino y nos recuerda que no estamos perdidos. Aunque no veamos el panorama completo, Dios nos guía con Su verdad.\n\nLa esperanza no elimina la oscuridad de inmediato, pero nos da la claridad necesaria para seguir avanzando.\n\nConfía en que Dios está iluminando tu camino, aun cuando el entorno parezca oscuro.",
+      "prayer": "Señor, ilumina mi camino y fortalece mi esperanza.",
+      "premium": true
+    },
+    {
+      "id": "esperanza-9",
+      "title": "Esperanza firme en las promesas eternas",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Hebreos 10:23 — Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que prometió.",
+      "content": "La esperanza cristiana se sostiene en las promesas eternas de Dios. A diferencia de las promesas humanas, las de Dios no cambian ni fallan.\n\nMantener una esperanza firme implica confiar en la fidelidad de Dios aun cuando las circunstancias parecen inestables. Él siempre cumple lo que promete.\n\nLa esperanza nos da estabilidad emocional y espiritual, recordándonos que Dios sigue teniendo el control.\n\nHoy afirma tu esperanza en las promesas de Dios y confía en Su fidelidad eterna.",
+      "prayer": "Señor, ayúdame a mantener firme mi esperanza en Tus promesas.",
+      "premium": true
+    },
+    {
+      "id": "esperanza-10",
+      "title": "Esperanza que renueva cada mañana",
+      "category": "esperanza",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Lamentaciones 3:22-23 — Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+      "content": "Cada nuevo día es una oportunidad para renovar la esperanza. Aun después de una noche difícil, Dios ofrece misericordias nuevas que fortalecen el corazón.\n\nLa esperanza se renueva cuando recordamos la fidelidad constante de Dios. Él no se cansa de sostenernos ni de ofrecernos Su gracia.\n\nCada mañana trae una nueva oportunidad para confiar y avanzar con fe.\n\nHoy recibe la misericordia de Dios y permite que tu esperanza se renueve.",
+      "prayer": "Señor, gracias por renovar mi esperanza cada mañana.",
+      "premium": true
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "perdon-1",
+      "title": "El perdón que libera el corazón",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Efesios 4:32 — Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, como Dios también os perdonó a vosotros en Cristo.",
+      "content": "El perdón es una de las decisiones más difíciles que enfrentamos como seres humanos. Cuando alguien nos hiere, el dolor puede arraigarse profundamente en el corazón y transformarse en resentimiento. Sin embargo, la Palabra de Dios nos enseña que el perdón no es una opción secundaria, sino un camino de libertad espiritual.\n\nPerdonar no significa minimizar la ofensa ni justificar el daño recibido. Significa soltar la carga que el rencor coloca sobre nuestra alma. Dios nos llama a perdonar no porque el otro lo merezca, sino porque nosotros mismos hemos sido perdonados por medio de Cristo. Recordar el perdón que hemos recibido nos ayuda a extender misericordia a los demás.\n\nEl rencor encadena el corazón, pero el perdón lo libera. Cuando decidimos perdonar, no solo obedecemos a Dios, sino que también permitimos que Su paz sane nuestras heridas. El perdón es un proceso que requiere humildad, oración y dependencia del Espíritu Santo.\n\nDios no espera que perdonemos con nuestras propias fuerzas. Él nos da la gracia necesaria para hacerlo. Cada paso hacia el perdón abre espacio para la sanidad interior y restaura nuestra comunión con Dios.\n\nHoy, examina tu corazón. Si hay resentimiento guardado, entrégalo a Dios. Permite que Su amor te capacite para perdonar y experimentar la verdadera libertad que solo Él puede dar.",
+      "prayer": "Señor, dame un corazón misericordioso y ayúdame a perdonar como Tú me has perdonado.",
+      "premium": false
+    },
+    {
+      "id": "perdon-2",
+      "title": "Perdonar cuando el dolor persiste",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Mateo 18:21-22 — Entonces se le acercó Pedro y le dijo: Señor, ¿cuántas veces perdonaré a mi hermano que peque contra mí? ¿Hasta siete? Jesús le dijo: No te digo hasta siete, sino aun hasta setenta veces siete.",
+      "content": "Perdonar una vez puede parecer posible, pero perdonar repetidamente cuando el dolor persiste representa un verdadero desafío espiritual. Muchas veces creemos que el perdón debe eliminar inmediatamente el dolor, pero la sanidad del corazón suele ser un proceso gradual.\n\nJesús nos enseña que el perdón no tiene límites numéricos. Esta enseñanza no pretende minimizar el sufrimiento, sino liberarnos de la esclavitud del resentimiento. Cada vez que elegimos perdonar, damos un paso hacia la sanidad interior, aun cuando las emociones no hayan sanado por completo.\n\nEl perdón no depende de lo que sentimos, sino de una decisión basada en obediencia y fe. Dios ve el esfuerzo del corazón que decide perdonar aun cuando duele. Él camina con nosotros en el proceso y nos sostiene cuando las fuerzas parecen agotarse.\n\nNegarnos a perdonar mantiene viva la herida, pero elegir perdonar permite que Dios actúe en nuestro interior. Con el tiempo, el dolor pierde intensidad y el corazón encuentra descanso.\n\nSi hoy el dolor persiste, no te rindas. Sigue entregando esa herida a Dios. Él transforma el sufrimiento en sanidad y te fortalece para vivir en libertad.",
+      "prayer": "Señor, ayúdame a perdonar aun cuando el dolor no haya desaparecido por completo.",
+      "premium": false
+    },
+    {
+      "id": "perdon-3",
+      "title": "El perdón como acto de obediencia",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Colosenses 3:13 — Soportándoos unos a otros, y perdonándoos unos a otros si alguno tuviere queja contra otro. De la manera que Cristo os perdonó, así también hacedlo vosotros.",
+      "content": "El perdón no siempre nace de un sentimiento espontáneo; muchas veces es un acto consciente de obediencia a Dios. Cuando alguien nos hiere, la reacción natural es defendernos o guardar resentimiento. Sin embargo, Dios nos llama a responder de una manera diferente.\n\nPerdonar por obediencia no significa ser débiles, sino confiar en la justicia y el amor de Dios. Él es quien se encarga de obrar en cada situación. Al perdonar, entregamos el control y permitimos que Dios actúe de acuerdo con Su voluntad.\n\nCristo es nuestro mayor ejemplo de perdón. Aun en medio del sufrimiento, Él extendió misericordia. Recordar Su sacrificio nos ayuda a comprender la profundidad del perdón que hemos recibido y nos motiva a perdonar a otros.\n\nLa obediencia en el perdón produce paz interior y fortalece nuestra relación con Dios. Aunque el proceso sea difícil, el fruto es libertad y restauración.\n\nHoy decide perdonar como un acto de obediencia. Confía en que Dios sanará tu corazón y traerá paz a tu vida.",
+      "prayer": "Señor, ayúdame a obedecerte y a perdonar como Cristo me perdonó.",
+      "premium": false
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "perdon-4",
+      "title": "Perdonar para sanar el alma",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "Salmos 103:12 — Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras rebeliones.",
+      "content": "El perdón es una puerta hacia la sanidad interior. Cuando guardamos resentimiento, el dolor no solo permanece, sino que se profundiza. Dios conoce esta realidad y por eso nos invita a perdonar, no para negar lo ocurrido, sino para restaurar nuestro corazón. Él mismo nos da el ejemplo al alejar nuestras faltas y no recordarlas más.\n\nPerdonar no borra automáticamente la memoria del daño, pero sí cambia la forma en que este afecta nuestra vida. Al perdonar, dejamos de revivir la herida una y otra vez y permitimos que Dios sane las áreas quebrantadas del alma. El perdón libera emociones atrapadas y trae descanso interior.\n\nMuchas veces pensamos que perdonar es beneficiar a quien nos hirió, pero en realidad es un acto de amor propio guiado por Dios. El rencor desgasta, pero el perdón restaura. Dios desea que vivamos libres, no atados al pasado.\n\nLa sanidad no siempre es inmediata, pero cada decisión de perdonar abre espacio para que Dios obre con poder. Su gracia nos acompaña en cada paso del proceso.\n\nHoy permite que el perdón sane tu alma. Confía en que Dios puede restaurar lo que fue herido y darte un corazón renovado.",
+      "prayer": "Señor, sana mi corazón mientras decido perdonar y confiar en Tu restauración.",
+      "premium": true
+    },
+    {
+      "id": "perdon-5",
+      "title": "El perdón frente a la injusticia",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Romanos 12:19 — No os venguéis vosotros mismos, amados míos, sino dejad lugar a la ira de Dios; porque escrito está: Mía es la venganza, yo pagaré, dice el Señor.",
+      "content": "Cuando somos tratados injustamente, el deseo natural es buscar venganza o exigir reparación inmediata. Sin embargo, Dios nos llama a un camino diferente: el del perdón y la confianza en Su justicia. Perdonar no significa aprobar la injusticia, sino confiar en que Dios es el juez perfecto.\n\nEl perdón nos libera del peso de querer hacer justicia por nuestras propias manos. Cuando soltamos esa carga, dejamos espacio para que Dios actúe de acuerdo con Su sabiduría. Él ve lo que nosotros no vemos y obra con justicia y misericordia.\n\nGuardar resentimiento solo prolonga el dolor y nos mantiene atados al daño recibido. En cambio, perdonar nos permite avanzar sin cargar con la ofensa. Dios promete encargarse de aquello que no está en nuestras manos.\n\nElegir el perdón frente a la injusticia es un acto de fe profunda. Confiamos en que Dios no es indiferente y que Su justicia siempre prevalece.\n\nHoy entrega a Dios aquello que te parece injusto. Permite que Él sane tu corazón mientras confías en Su obrar perfecto.",
+      "prayer": "Señor, ayúdame a perdonar y a confiar en Tu justicia cuando he sido tratado injustamente.",
+      "premium": true
+    },
+    {
+      "id": "perdon-6",
+      "title": "Perdonar como Cristo perdonó",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800",
+      "readTime": 6,
+      "verse": "Lucas 23:34 — Y Jesús decía: Padre, perdónalos, porque no saben lo que hacen.",
+      "content": "El mayor ejemplo de perdón lo encontramos en Cristo. Aun en medio del sufrimiento y la injusticia, Él decidió perdonar. Su ejemplo nos muestra que el perdón no depende de las circunstancias, sino del amor y la obediencia a Dios.\n\nPerdonar como Cristo perdonó implica mirar más allá de la ofensa y reconocer la necesidad espiritual de quien nos ha herido. No siempre es fácil, pero Dios nos da la gracia necesaria para hacerlo.\n\nEl perdón cristiano transforma no solo al que es perdonado, sino también a quien perdona. Produce libertad, paz y sanidad interior.\n\nCuando elegimos seguir el ejemplo de Cristo, permitimos que Su amor gobierne nuestras decisiones.\n\nHoy decide perdonar siguiendo el ejemplo de Jesús. Confía en que Dios obrará poderosamente en tu corazón.",
+      "prayer": "Señor, enséñame a perdonar como Tú perdonaste.",
+      "premium": true
+    },
+    {
+      "id": "perdon-7",
+      "title": "El perdón que restaura relaciones",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Mateo 5:24 — Ve primero y reconcíliate con tu hermano, y entonces ven y presenta tu ofrenda.",
+      "content": "El perdón tiene el poder de restaurar relaciones que parecían irrecuperables. Aunque no siempre es posible reconciliarse, el perdón abre la puerta para que Dios sane los vínculos dañados.\n\nPerdonar elimina barreras emocionales y permite que la comunicación sea restaurada. Dios valora la reconciliación porque refleja Su amor.\n\nAun cuando la relación no se restablezca por completo, el perdón libera el corazón y produce paz.\n\nHoy permite que Dios use el perdón para traer restauración a tus relaciones.",
+      "prayer": "Señor, ayúdame a perdonar y a buscar la restauración conforme a Tu voluntad.",
+      "premium": true
+    },
+    {
+      "id": "perdon-8",
+      "title": "Perdonar también a uno mismo",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "1 Juan 1:9 — Si confesamos nuestros pecados, Él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad.",
+      "content": "Muchas personas luchan no solo con perdonar a otros, sino también con perdonarse a sí mismas. La culpa puede convertirse en una carga pesada que afecta la relación con Dios.\n\nDios ofrece perdón completo y restauración. Cuando Él perdona, no espera que sigamos castigándonos.\n\nAceptar el perdón de Dios implica soltar la culpa y caminar en libertad.\n\nHoy recibe el perdón de Dios y aprende a perdonarte.",
+      "prayer": "Señor, ayúdame a aceptar Tu perdón y a perdonarme a mí mismo.",
+      "premium": true
+    },
+    {
+      "id": "perdon-9",
+      "title": "El perdón como camino de libertad",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Juan 8:36 — Así que, si el Hijo os libertare, seréis verdaderamente libres.",
+      "content": "El perdón es un camino que conduce a la verdadera libertad. Cuando perdonamos, dejamos atrás cadenas emocionales que nos impiden avanzar.\n\nDios desea que vivamos libres, no atados al pasado. El perdón es parte esencial de esa libertad.\n\nCaminar en perdón nos permite vivir con paz y plenitud.\n\nHoy decide caminar en la libertad que Dios te ofrece.",
+      "prayer": "Señor, llévame a vivir en la libertad que trae el perdón.",
+      "premium": true
+    },
+    {
+      "id": "perdon-10",
+      "title": "Perdonar y confiar en la restauración de Dios",
+      "category": "perdon",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "readTime": 6,
+      "verse": "Joel 2:25 — Y os restituiré los años que comió la oruga.",
+      "content": "Dios no solo llama a perdonar, sino que promete restaurar lo que fue dañado. El perdón abre la puerta para que Dios actúe con poder restaurador.\n\nAunque el pasado no puede cambiarse, Dios puede transformar sus consecuencias.\n\nConfiar en Su restauración fortalece la fe y renueva la esperanza.\n\nHoy entrega tu historia a Dios y confía en Su restauración.",
+      "prayer": "Señor, confío en que Tú restauras lo que el dolor ha dañado.",
+      "premium": true
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "amor-1",
+      "title": "El amor que nace del corazón de Dios",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "1 Juan 4:19 — Nosotros le amamos a Él, porque Él nos amó primero.",
+      "content": "El amor verdadero no comienza en nosotros, sino en Dios. Antes de que pudiéramos comprenderlo, Él ya nos había amado con un amor eterno y perfecto. Este amor no depende de nuestro comportamiento ni de nuestros logros; nace del corazón mismo de Dios y se manifiesta por pura gracia.\n\nMuchas veces confundimos el amor con emociones pasajeras o con actos condicionados. Sin embargo, el amor de Dios es firme, constante y fiel. Él nos ama aun cuando fallamos, cuando dudamos y cuando nos alejamos. Este amor nos da identidad y valor, recordándonos que somos profundamente amados.\n\nCuando comprendemos que hemos sido amados primero, nuestro corazón comienza a transformarse. Ya no amamos para ser aceptados, sino porque hemos sido aceptados por Dios. Su amor nos sana, nos restaura y nos enseña a amar a otros con compasión y paciencia.\n\nEl amor que proviene de Dios nos invita a vivir de una manera diferente. Nos llama a perdonar, a servir y a extender gracia, incluso cuando no es fácil. Amar como Dios ama no es posible por nuestras propias fuerzas, pero Él nos capacita a través de Su Espíritu.\n\nHoy recuerda que tu valor no está en lo que haces, sino en el amor que Dios tiene por ti. Permite que ese amor llene tu corazón y se refleje en cada área de tu vida.",
+      "prayer": "Señor, gracias por amarme primero. Ayúdame a vivir y amar desde Tu amor.",
+      "premium": false
+    },
+    {
+      "id": "amor-2",
+      "title": "Amar aun cuando cuesta",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Lucas 6:35 — Amad, pues, a vuestros enemigos, y haced bien, y prestad, no esperando de ello nada; y será vuestro galardón grande, y seréis hijos del Altísimo.",
+      "content": "Amar cuando todo es favorable resulta sencillo, pero el verdadero desafío aparece cuando amar cuesta. Amar a quienes nos han herido, decepcionado o ignorado no es natural para el ser humano. Sin embargo, Jesús nos llama a un amor que va más allá de lo cómodo y lo esperado.\n\nEl amor cristiano no se basa en el merecimiento, sino en la obediencia y en la gracia. Dios nos amó cuando no lo merecíamos, y ese mismo amor nos invita a amar incluso en situaciones difíciles. Amar no siempre significa estar de acuerdo, pero sí elegir actuar con misericordia y respeto.\n\nCuando decidimos amar aun cuando cuesta, reflejamos el carácter de Dios. Este tipo de amor rompe ciclos de odio, sana relaciones y trae paz al corazón. No es un amor débil, sino uno lleno de fortaleza espiritual.\n\nDios no nos pide amar con nuestras propias fuerzas. Él nos capacita para amar de una manera sobrenatural, guiándonos a través de Su Espíritu. Cada acto de amor obediente produce fruto eterno.\n\nHoy, permite que Dios te ayude a amar aun en las circunstancias difíciles. Confía en que Su amor obrará tanto en ti como en los demás.",
+      "prayer": "Señor, dame un corazón capaz de amar aun cuando resulta difícil.",
+      "premium": false
+    },
+    {
+      "id": "amor-3",
+      "title": "El amor que transforma relaciones",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "1 Corintios 13:4-5 — El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece; no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor.",
+      "content": "Las relaciones humanas pueden ser una fuente de gran alegría, pero también de dolor y conflicto. El amor descrito en la Palabra de Dios nos ofrece un modelo claro para construir relaciones sanas y duraderas. Este amor no se basa en emociones cambiantes, sino en una actitud constante del corazón.\n\nEl amor verdadero es paciente y bondadoso. Aprende a escuchar, a comprender y a actuar con humildad. Cuando permitimos que este amor guíe nuestras relaciones, los conflictos se manejan con mayor sabiduría y las heridas encuentran espacio para sanar.\n\nAmar de esta manera implica renunciar al orgullo y al deseo de tener siempre la razón. El amor busca el bien del otro y promueve la paz. No guarda rencor ni se deleita en la ofensa, sino que trabaja por la restauración.\n\nDios nos invita a reflejar Su amor en cada relación: en la familia, en el trabajo y en la comunidad. Este amor transforma ambientes y fortalece los vínculos.\n\nHoy examina tus relaciones y permite que el amor de Dios sea el fundamento. Cuando amas como Dios ama, las relaciones pueden ser renovadas y fortalecidas.",
+      "prayer": "Señor, enséñame a amar con paciencia, bondad y humildad.",
+      "premium": false
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "amor-4",
+      "title": "El amor de Dios que sana las heridas",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "Salmos 147:3 — Él sana a los quebrantados de corazón, y venda sus heridas.",
+      "content": "El amor de Dios no es distante ni indiferente al dolor humano. Al contrario, es un amor cercano que se inclina hacia el corazón herido para traer sanidad y restauración. Muchas personas continúan su vida cargando heridas emocionales que nunca han sido tratadas, pero Dios desea intervenir con Su amor sanador.\n\nCuando permitimos que el amor de Dios entre en nuestras áreas más frágiles, comienza un proceso profundo de restauración. Dios no apresura la sanidad ni minimiza el dolor; Él acompaña cada etapa con paciencia y compasión. Su amor no juzga ni condena, sino que abraza y restaura.\n\nLas heridas del pasado pueden afectar nuestra forma de amar y confiar. Sin embargo, el amor de Dios tiene el poder de romper patrones de temor, rechazo y amargura. A medida que recibimos Su amor, aprendemos a vernos y a ver a otros desde una perspectiva renovada.\n\nDios sana no solo para que estemos completos, sino para que podamos amar sin miedo. Su amor nos enseña que no estamos definidos por lo que nos hirió, sino por Aquel que nos restauró.\n\nHoy permite que el amor de Dios sane tu corazón. Entrégale tus heridas y confía en que Su amor es suficiente para restaurarte por completo.",
+      "prayer": "Señor, sana mi corazón con Tu amor y restaura las áreas que han sido heridas.",
+      "premium": true
+    },
+    {
+      "id": "amor-5",
+      "title": "Amar con un corazón humilde",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Filipenses 2:3 — Nada hagáis por contienda o por vanagloria; antes bien con humildad, estimando cada uno a los demás como superiores a él mismo.",
+      "content": "El amor verdadero siempre camina de la mano con la humildad. Cuando el orgullo gobierna el corazón, el amor se debilita y las relaciones se ven afectadas. Dios nos llama a amar desde una actitud humilde, reconociendo el valor de los demás.\n\nAmar con humildad implica escuchar antes de responder, comprender antes de juzgar y servir sin esperar reconocimiento. Jesús nos dio el mayor ejemplo al humillarse y amar sin condiciones. Su amor no buscó beneficio propio, sino el bien de otros.\n\nLa humildad nos permite amar sin competir, sin compararnos y sin buscar control. Nos ayuda a reconocer nuestras propias debilidades y a extender gracia a los demás. Cuando el amor es guiado por la humildad, se convierte en un reflejo del carácter de Cristo.\n\nDios honra a quienes aman con un corazón humilde. Este tipo de amor edifica relaciones sólidas y crea ambientes de paz y respeto.\n\nHoy decide amar con humildad. Permite que Dios transforme tu corazón y te enseñe a amar como Él ama.",
+      "prayer": "Señor, enséñame a amar con humildad y a valorar a los demás como Tú lo haces.",
+      "premium": true
+    },
+    {
+      "id": "amor-6",
+      "title": "El amor que permanece en la dificultad",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800",
+      "readTime": 6,
+      "verse": "Romanos 8:38-39 — Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa creada nos podrá separar del amor de Dios, que es en Cristo Jesús Señor nuestro.",
+      "content": "El amor de Dios no depende de circunstancias favorables. Permanece firme aun en medio de la dificultad, el dolor y la incertidumbre. Esta verdad nos da seguridad cuando todo a nuestro alrededor parece inestable.\n\nMuchas veces las dificultades ponen a prueba nuestra capacidad de amar. Sin embargo, el amor que proviene de Dios no se agota con la adversidad. Al contrario, se fortalece y nos sostiene en los momentos más difíciles.\n\nCuando comprendemos que nada puede separarnos del amor de Dios, encontramos descanso y esperanza. Su amor es constante, fiel y eterno. No se debilita con nuestros errores ni desaparece en las pruebas.\n\nEste amor nos capacita para amar a otros aun cuando la situación es complicada. Nos da fuerza para perseverar y seguir adelante.\n\nHoy recuerda que el amor de Dios permanece contigo. Descansa en esa verdad y permite que ese amor te sostenga en toda circunstancia.",
+      "prayer": "Señor, gracias porque Tu amor permanece firme aun en los momentos difíciles.",
+      "premium": true
+    },
+    {
+      "id": "amor-7",
+      "title": "Amar con paciencia y gracia",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Proverbios 19:11 — La cordura del hombre detiene su furor, y su honra es pasar por alto la ofensa.",
+      "content": "La paciencia es una expresión esencial del amor. En un mundo acelerado, amar con paciencia requiere intención y dominio propio. Dios nos llama a extender gracia, aun cuando somos provocados o incomprendidos.\n\nAmar con paciencia implica elegir la calma en lugar de la reacción impulsiva. Nos permite responder con sabiduría y no desde la emoción del momento. Este tipo de amor protege las relaciones y promueve la paz.\n\nDios es paciente con nosotros y nos invita a reflejar esa misma paciencia hacia los demás. Cuando practicamos la paciencia, el amor se fortalece y las relaciones crecen.\n\nHoy decide amar con paciencia y gracia. Permite que Dios guíe tus reacciones y transforme tu manera de amar.",
+      "prayer": "Señor, ayúdame a amar con paciencia y a responder con gracia.",
+      "premium": true
+    },
+    {
+      "id": "amor-8",
+      "title": "El amor que sirve sin esperar nada",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Gálatas 5:13 — Servíos por amor los unos a los otros.",
+      "content": "El amor verdadero se expresa a través del servicio. Cuando servimos por amor, reflejamos el corazón de Cristo, quien vino no para ser servido, sino para servir.\n\nServir sin esperar nada a cambio requiere un corazón dispuesto y humilde. Este tipo de amor no busca reconocimiento ni recompensa, sino agradar a Dios.\n\nCada acto de servicio, por pequeño que parezca, tiene valor eterno cuando es hecho con amor.\n\nHoy permite que el amor de Dios te impulse a servir con alegría y entrega.",
+      "prayer": "Señor, dame un corazón dispuesto a servir por amor.",
+      "premium": true
+    },
+    {
+      "id": "amor-9",
+      "title": "El amor que perdona y restaura",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Proverbios 10:12 — El odio despierta rencillas; pero el amor cubrirá todas las faltas.",
+      "content": "El amor y el perdón están profundamente conectados. Cuando amamos como Dios ama, estamos dispuestos a perdonar y a buscar restauración.\n\nEl amor cubre la ofensa y abre la puerta para la reconciliación. No ignora el error, pero elige la gracia por encima del rencor.\n\nDios nos invita a amar de una manera que restaura y sana.\n\nHoy permite que el amor guíe tus decisiones y produzca restauración en tus relaciones.",
+      "prayer": "Señor, enséñame a amar y perdonar como Tú lo haces.",
+      "premium": true
+    },
+    {
+      "id": "amor-10",
+      "title": "El amor que refleja a Cristo",
+      "category": "amor",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "readTime": 6,
+      "verse": "Juan 13:35 — En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros.",
+      "content": "El amor es la señal más clara de una vida transformada por Cristo. No se trata solo de palabras, sino de una manera de vivir que refleja Su carácter.\n\nCuando amamos como Cristo ama, damos testimonio de Su obra en nosotros. Este amor impacta vidas y glorifica a Dios.\n\nVivir en amor requiere decisión diaria y dependencia del Espíritu Santo.\n\nHoy decide reflejar a Cristo a través del amor. Permite que Su amor sea visible en cada acción.",
+      "prayer": "Señor, ayúdame a reflejar Tu amor en todo lo que hago.",
+      "premium": true
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "paz-1",
+      "title": "La paz que sobrepasa todo entendimiento",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Filipenses 4:7 — Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
+      "content": "La paz que Dios ofrece no es comparable con la tranquilidad momentánea que el mundo brinda. Mientras la paz humana depende de circunstancias favorables, la paz de Dios permanece firme aun en medio de la tormenta. Es una paz que no siempre entendemos, pero que se siente profundamente en el corazón cuando confiamos en Él.\n\nMuchas veces buscamos paz intentando controlar todo a nuestro alrededor. Sin embargo, el verdadero descanso llega cuando rendimos nuestras preocupaciones a Dios. La paz divina no elimina automáticamente los problemas, pero nos guarda interiormente para enfrentarlos con confianza y serenidad.\n\nDios promete cuidar nuestros pensamientos y emociones cuando decidimos confiar en Él. Esto implica entregar nuestras ansiedades en oración y permitir que Su presencia gobierne nuestro interior. La paz de Dios actúa como una protección que evita que el miedo y la angustia dominen nuestro corazón.\n\nVivir en la paz de Dios requiere una decisión diaria. No se trata de ignorar las dificultades, sino de elegir confiar en que Dios tiene el control. Su paz nos recuerda que no estamos solos y que Él camina con nosotros en cada etapa.\n\nHoy, permite que la paz de Dios llene tu corazón. Descansa en Su presencia y confía en que Él guarda tu vida con amor y fidelidad.",
+      "prayer": "Señor, llena mi corazón con Tu paz y guarda mis pensamientos en Ti.",
+      "premium": false
+    },
+    {
+      "id": "paz-2",
+      "title": "Paz en medio de la tormenta",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Juan 14:27 — La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo.",
+      "content": "Las tormentas de la vida llegan sin previo aviso. Problemas, pérdidas y situaciones inesperadas pueden sacudir nuestra estabilidad emocional. En medio de estas circunstancias, Jesús nos ofrece una paz diferente, una paz que no depende de lo que sucede a nuestro alrededor.\n\nLa paz que Cristo da no elimina la tormenta de inmediato, pero calma el corazón que confía en Él. Es una paz que permite mantener la esperanza aun cuando todo parece incierto. Jesús nos invita a no dejar que el temor gobierne nuestro interior.\n\nCuando enfrentamos dificultades, es fácil permitir que la ansiedad tome control. Sin embargo, la paz de Cristo nos recuerda que Él sigue teniendo autoridad sobre cualquier tormenta. Su presencia trae calma y fortaleza.\n\nElegir la paz implica confiar en que Dios está obrando aun cuando no entendemos el proceso. La paz de Cristo nos ayuda a caminar con seguridad y a enfrentar cada desafío con fe.\n\nHoy, si estás atravesando una tormenta, recuerda que Jesús está contigo. Recibe Su paz y permite que tu corazón encuentre descanso en Él.",
+      "prayer": "Señor Jesús, recibo Tu paz y confío en Tu presencia aun en medio de la tormenta.",
+      "premium": false
+    },
+    {
+      "id": "paz-3",
+      "title": "La paz que nace de confiar en Dios",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Isaías 26:3 — Tú guardarás en completa paz a aquel cuyo pensamiento en Ti persevera; porque en Ti ha confiado.",
+      "content": "La paz verdadera no se produce por la ausencia de problemas, sino por una confianza firme en Dios. Cuando decidimos enfocar nuestros pensamientos en Él, nuestro corazón encuentra estabilidad aun en medio de la incertidumbre.\n\nDios promete una paz completa a quienes confían en Él. Esta paz no es superficial ni temporal; es profunda y constante. Mantener la mente enfocada en Dios nos ayuda a no ser dominados por el temor o la ansiedad.\n\nConfiar en Dios implica rendir nuestros pensamientos y emociones a Su cuidado. Cada vez que elegimos creer en Sus promesas, la paz se fortalece en nuestro interior. Dios guarda el corazón de aquellos que perseveran en la fe.\n\nLa paz crece cuando dejamos de depender únicamente de nuestras fuerzas y aprendemos a descansar en Dios. Su fidelidad nos da seguridad y esperanza.\n\nHoy decide confiar plenamente en Dios. Permite que Su paz gobierne tu corazón y te acompañe en cada paso del camino.",
+      "prayer": "Señor, ayúdame a confiar en Ti y a mantener mi mente enfocada en Tu verdad.",
+      "premium": false
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "paz-4",
+      "title": "La paz que guarda el corazón cansado",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Mateo 11:28-29 — Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar. Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas.",
+      "content": "El cansancio del alma no siempre se nota por fuera. Muchas veces seguimos adelante cumpliendo responsabilidades mientras por dentro sentimos agotamiento, preocupación y una carga difícil de explicar. Jesús conoce ese cansancio profundo y nos invita a acercarnos a Él para encontrar descanso verdadero.\n\nLa paz que Cristo ofrece no es simplemente una pausa temporal, sino un descanso interior que guarda el corazón. Cuando llevamos nuestras cargas a Dios, dejamos de luchar solos y permitimos que Él nos sostenga. Su yugo no oprime; al contrario, aligera el peso que llevamos.\n\nAceptar el descanso de Dios implica reconocer que no podemos con todo. Es un acto de humildad que abre la puerta a la paz. Jesús nos enseña a vivir desde la mansedumbre y la confianza, no desde la presión constante.\n\nCuando aprendemos a descansar en Él, la paz comienza a llenar los espacios que antes ocupaba la ansiedad. El alma encuentra alivio y el corazón recupera fuerzas.\n\nHoy, si te sientes cansado, responde a la invitación de Jesús. Entrégale tus cargas y permite que Su paz guarde tu corazón y te renueve desde lo más profundo.",
+      "prayer": "Señor Jesús, hoy vengo a Ti con mis cargas y recibo el descanso y la paz que solo Tú puedes dar.",
+      "premium": true
+    },
+    {
+      "id": "paz-5",
+      "title": "Paz al soltar el control",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "Proverbios 16:9 — El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+      "content": "Muchas veces la falta de paz surge del deseo de tener todo bajo control. Planificamos, anticipamos y nos preocupamos intentando asegurar el futuro. Sin embargo, la verdadera paz llega cuando aprendemos a confiar en que Dios dirige nuestros pasos.\n\nSoltar el control no significa vivir sin responsabilidad, sino reconocer que Dios tiene una visión más amplia que la nuestra. Cuando dejamos de depender exclusivamente de nuestras propias fuerzas, el corazón se libera de una carga innecesaria.\n\nLa paz crece cuando aceptamos que no todo está en nuestras manos. Dios sabe lo que hace y Su dirección es perfecta. Confiar en Él nos permite vivir con mayor tranquilidad y seguridad.\n\nAl soltar el control, dejamos espacio para que Dios actúe. La ansiedad disminuye y el corazón encuentra descanso.\n\nHoy decide confiar en Dios y soltar aquello que te roba la paz. Permite que Él guíe tus pasos y llene tu vida de Su paz.",
+      "prayer": "Señor, ayúdame a soltar el control y a confiar en Tu dirección perfecta.",
+      "premium": true
+    },
+    {
+      "id": "paz-6",
+      "title": "La paz que vence la ansiedad",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "1 Pedro 5:7 — Echando toda vuestra ansiedad sobre Él, porque Él tiene cuidado de vosotros.",
+      "content": "La ansiedad puede ocupar el corazón de forma silenciosa, robando la paz y afectando nuestra manera de vivir. Dios no ignora esta realidad; por el contrario, nos invita a entregarle toda preocupación.\n\nEchar nuestra ansiedad sobre Dios implica confiar en Su cuidado constante. Él se interesa por cada detalle de nuestra vida y desea que vivamos libres del peso de la preocupación excesiva.\n\nCuando entregamos nuestras cargas a Dios, la paz comienza a reemplazar la ansiedad. No significa que los problemas desaparezcan, sino que ya no los enfrentamos solos.\n\nDios cuida de nosotros con amor y fidelidad. Al recordar esta verdad, el corazón encuentra calma.\n\nHoy entrega tu ansiedad a Dios y permite que Su paz gobierne tu interior.",
+      "prayer": "Señor, entrego mis preocupaciones en Tus manos y recibo Tu paz.",
+      "premium": true
+    },
+    {
+      "id": "paz-7",
+      "title": "Paz en la obediencia diaria",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Isaías 48:18 — ¡Oh, si hubieras atendido a mis mandamientos! Fuera entonces tu paz como un río, y tu justicia como las ondas del mar.",
+      "content": "La obediencia a Dios está profundamente conectada con la paz interior. Muchas veces buscamos paz sin considerar que vivir conforme a la voluntad de Dios produce tranquilidad y seguridad.\n\nCuando obedecemos, alineamos nuestro corazón con el propósito divino. Esto genera paz, aun cuando el camino no sea fácil. La obediencia nos protege de decisiones que traen inquietud.\n\nDios desea que vivamos en una paz constante, como un río que fluye sin interrupciones. Esta paz nace de caminar de acuerdo con Su palabra.\n\nHoy decide obedecer a Dios y experimentar la paz que fluye de una vida alineada con Él.",
+      "prayer": "Señor, enséñame a obedecer Tu palabra y a vivir en la paz que Tú das.",
+      "premium": true
+    },
+    {
+      "id": "paz-8",
+      "title": "La paz que restaura el interior",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Salmos 23:2-3 — En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará. Confortará mi alma.",
+      "content": "Dios no solo desea calmarnos, sino restaurar profundamente nuestra alma. La paz que Él ofrece renueva el interior y devuelve fuerzas al corazón cansado.\n\nCuando permitimos que Dios nos guíe, encontramos descanso verdadero. Su presencia nos lleva a lugares de reposo donde el alma se fortalece.\n\nLa restauración interior es un proceso que ocurre cuando confiamos en el cuidado del buen Pastor.\n\nHoy permite que Dios conforte tu alma y te llene de Su paz restauradora.",
+      "prayer": "Señor, restaura mi alma y lléname de Tu paz.",
+      "premium": true
+    },
+    {
+      "id": "paz-9",
+      "title": "Paz al confiar en la fidelidad de Dios",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "readTime": 6,
+      "verse": "Lamentaciones 3:31-32 — Porque el Señor no desecha para siempre; antes si aflige, también se compadece según la multitud de sus misericordias.",
+      "content": "La fidelidad de Dios es una fuente constante de paz. Aun en los momentos difíciles, Él permanece fiel y compasivo.\n\nConfiar en Su fidelidad nos permite mantener la calma cuando las circunstancias son adversas. Dios nunca abandona a Sus hijos.\n\nRecordar Su misericordia renueva la esperanza y fortalece la paz interior.\n\nHoy confía en la fidelidad de Dios y descansa en Su cuidado.",
+      "prayer": "Señor, confío en Tu fidelidad y descanso en Tu paz.",
+      "premium": true
+    },
+    {
+      "id": "paz-10",
+      "title": "La paz que permanece aun en el silencio",
+      "category": "paz",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Salmos 46:10 — Estad quietos, y conoced que yo soy Dios; seré exaltado entre las naciones; enaltecido seré en la tierra.",
+      "content": "El silencio de Dios puede ser inquietante, pero también puede convertirse en un espacio donde la paz se profundiza. Estar quietos delante de Dios nos ayuda a reconocer Su soberanía.\n\nLa paz se fortalece cuando dejamos de luchar y aprendemos a descansar en Él. En el silencio, Dios trabaja en nuestro interior.\n\nHoy permite que el silencio te acerque más a Dios y llene tu corazón de Su paz.",
+      "prayer": "Señor, enséñame a estar quieto y a confiar en Tu paz.",
+      "premium": true
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "fortaleza-1",
+      "title": "Fortaleza cuando sientes que no puedes más",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Isaías 41:10 — No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+      "content": "Hay momentos en la vida en los que las fuerzas parecen agotarse por completo. El cansancio emocional, las responsabilidades acumuladas y las pruebas constantes pueden llevarnos a pensar que ya no podemos continuar. En esos instantes, Dios nos recuerda que nuestra fortaleza no depende únicamente de nuestras capacidades, sino de Su presencia constante.\n\nDios no promete que nunca nos sentiremos débiles, pero sí promete estar con nosotros cuando la debilidad aparece. Su fortaleza se manifiesta precisamente cuando reconocemos que no podemos solos. Al admitir nuestra fragilidad, abrimos espacio para que Dios actúe con poder en nuestra vida.\n\nMuchas veces intentamos sostener todo por nuestras propias fuerzas, lo que solo produce agotamiento y frustración. Dios nos invita a descansar en Él y a confiar en Su ayuda. Su mano nos sostiene cuando sentimos que estamos a punto de caer.\n\nLa fortaleza que Dios ofrece no siempre elimina la dificultad, pero nos capacita para atravesarla con fe y perseverancia. Él renueva nuestro ánimo y nos da la valentía necesaria para seguir adelante.\n\nHoy, si te sientes débil, recuerda que Dios está contigo. Permite que Su fortaleza te sostenga y te impulse a continuar, sabiendo que Él nunca te abandona.",
+      "prayer": "Señor, cuando mis fuerzas se agotan, confío en que Tú me sostienes y me das la fortaleza que necesito.",
+      "premium": false
+    },
+    {
+      "id": "fortaleza-2",
+      "title": "Fortaleza que nace en la debilidad",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "2 Corintios 12:9 — Bástate mi gracia; porque mi poder se perfecciona en la debilidad. Por tanto, de buena gana me gloriaré más bien en mis debilidades, para que repose sobre mí el poder de Cristo.",
+      "content": "La debilidad suele ser vista como algo negativo que debemos ocultar. Sin embargo, la Palabra de Dios nos enseña que la debilidad puede convertirse en el escenario donde Su poder se manifiesta con mayor claridad. Cuando reconocemos nuestras limitaciones, dejamos de depender de nosotros mismos y aprendemos a depender de Dios.\n\nDios no se sorprende por nuestras debilidades. Él las conoce y aun así nos llama, nos ama y nos fortalece. Su gracia es suficiente para sostenernos, incluso cuando sentimos que no tenemos lo necesario para seguir adelante.\n\nAceptar nuestra debilidad no es rendirse, sino confiar. Es reconocer que necesitamos la ayuda divina para avanzar. En ese reconocimiento, el poder de Dios se perfecciona y nos capacita para enfrentar los desafíos con una fortaleza que no es humana.\n\nMuchas veces Dios permite que atravesemos situaciones que nos hacen sentir frágiles para enseñarnos a depender completamente de Él. En esos momentos, nuestra fe se fortalece y nuestro carácter se forma.\n\nHoy, en lugar de ocultar tu debilidad, entrégala a Dios. Permite que Su poder repose sobre ti y te dé la fortaleza necesaria para seguir caminando con confianza.",
+      "prayer": "Señor, reconozco mi debilidad y confío en que Tu gracia es suficiente para fortalecerme.",
+      "premium": false
+    },
+    {
+      "id": "fortaleza-3",
+      "title": "Fortaleza para perseverar en la prueba",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Salmos 66:10 — Porque tú nos probaste, oh Dios; nos ensayaste como se afina la plata.",
+      "content": "Las pruebas tienen la capacidad de revelar lo que hay en nuestro corazón. Aunque nadie desea atravesar momentos difíciles, Dios utiliza las pruebas para fortalecer nuestra fe y purificar nuestro carácter. Así como la plata es refinada por el fuego, nuestra vida es formada a través de los procesos.\n\nLa fortaleza para perseverar no surge de la ausencia de problemas, sino de la confianza en que Dios está obrando aun en medio de la dificultad. Cada prueba tiene un propósito y contribuye a nuestro crecimiento espiritual.\n\nCuando enfrentamos la prueba con fe, aprendemos a depender más de Dios y menos de nuestras propias fuerzas. Él nos da la fortaleza necesaria para resistir y continuar.\n\nDios no permite pruebas para destruirnos, sino para formarnos. Al perseverar, nuestra fe se vuelve más firme y nuestra relación con Él se profundiza.\n\nHoy, si estás atravesando una prueba, confía en que Dios está trabajando en tu vida. Permite que Él te fortalezca y te guíe hasta salir adelante.",
+      "prayer": "Señor, dame fortaleza para perseverar en la prueba y confiar en Tu propósito.",
+      "premium": false
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "fortaleza-4",
+      "title": "Fortaleza que proviene del Señor",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Salmos 28:7 — Jehová es mi fortaleza y mi escudo; en Él confió mi corazón, y fui ayudado; por lo que mi corazón se alegró, y con mi cántico le alabaré.",
+      "content": "La verdadera fortaleza no nace de la autosuficiencia ni del esfuerzo humano, sino de una relación de confianza con Dios. Cuando reconocemos que Él es nuestra fortaleza, dejamos de depender únicamente de nuestras capacidades y aprendemos a descansar en Su poder.\n\nMuchas veces intentamos enfrentar los desafíos con nuestras propias fuerzas y terminamos agotados y desanimados. Dios nos invita a confiar en Él como nuestro escudo, aquel que nos protege y nos sostiene cuando las fuerzas flaquean. Al poner nuestra confianza en Dios, el corazón encuentra alivio y seguridad.\n\nLa fortaleza que proviene del Señor no solo nos ayuda a resistir, sino que también llena el corazón de gozo. Saber que no estamos solos en la batalla renueva nuestro ánimo y fortalece nuestra fe. Dios responde cuando confiamos en Él.\n\nConfiar en Dios no significa ausencia de dificultades, sino certeza de Su presencia. Él nos ayuda en el momento oportuno y nos da la fortaleza necesaria para seguir adelante.\n\nHoy declara que el Señor es tu fortaleza. Permite que Él sea tu escudo y confía en que Su ayuda llegará justo cuando la necesites.",
+      "prayer": "Señor, hoy confío en Ti como mi fortaleza y mi escudo.",
+      "premium": true
+    },
+    {
+      "id": "fortaleza-5",
+      "title": "Fortaleza para enfrentar el temor",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "Salmos 118:6 — Jehová está conmigo; no temeré lo que me pueda hacer el hombre.",
+      "content": "El temor puede debilitar el corazón y robarnos la valentía necesaria para avanzar. Sin embargo, Dios nos ofrece una fortaleza que vence el miedo y nos permite caminar con confianza. Saber que Dios está con nosotros transforma nuestra manera de enfrentar las dificultades.\n\nLa fortaleza divina no elimina automáticamente el temor, pero nos da el valor para no dejarnos dominar por él. Cuando confiamos en la presencia de Dios, el miedo pierde poder sobre nuestra vida.\n\nDios nos recuerda que no estamos solos. Su compañía constante es una fuente de fortaleza que nos permite enfrentar cualquier desafío con seguridad. Al recordar que Él está con nosotros, el corazón encuentra paz.\n\nCada vez que eliges confiar en Dios en lugar de ceder al temor, tu fortaleza espiritual se renueva. Él camina contigo y te sostiene en cada paso.\n\nHoy decide enfrentar tus temores confiando en la fortaleza que Dios te da. Permite que Su presencia te llene de valentía y confianza.",
+      "prayer": "Señor, dame fortaleza para enfrentar mis temores confiando en Tu presencia.",
+      "premium": true
+    },
+    {
+      "id": "fortaleza-6",
+      "title": "Fortaleza para seguir adelante",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Josué 1:9 — Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
+      "content": "Hay momentos en los que avanzar parece difícil y el desánimo intenta detenernos. En esos instantes, Dios nos recuerda que no caminamos solos. Su presencia constante es la fuente de fortaleza que necesitamos para seguir adelante.\n\nDios anima a Josué a esforzarse y ser valiente, recordándole que Él estaría con él en cada paso. Esta misma promesa sigue vigente hoy para quienes confían en Dios. Su compañía nos da el valor necesario para enfrentar nuevos desafíos.\n\nLa fortaleza espiritual no siempre se manifiesta como ausencia de miedo, sino como determinación para avanzar a pesar de él. Dios nos da la fuerza para continuar aun cuando el camino se vuelve incierto.\n\nCada paso dado en fe fortalece el carácter y renueva la confianza. Dios honra a quienes confían en Él y obedecen Su llamado.\n\nHoy, si te sientes desanimado, recuerda que Dios está contigo. Esfuérzate, sé valiente y sigue adelante confiando en Su fortaleza.",
+      "prayer": "Señor, dame fortaleza y valentía para seguir adelante confiando en Ti.",
+      "premium": true
+    },
+    {
+      "id": "fortaleza-7",
+      "title": "Fortaleza en medio de la adversidad",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Salmos 46:1 — Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
+      "content": "La adversidad puede sacudir nuestra estabilidad y poner a prueba nuestra fe. Sin embargo, Dios se presenta como un refugio seguro en medio de las tribulaciones. Su fortaleza nos sostiene cuando las circunstancias se vuelven difíciles.\n\nDios no promete una vida libre de problemas, pero sí promete ser nuestro auxilio oportuno. Cuando acudimos a Él, encontramos fortaleza para resistir y seguir adelante.\n\nLa fortaleza que Dios ofrece no es temporal ni frágil. Es constante y firme, capaz de sostenernos aun en las pruebas más intensas.\n\nEn la adversidad, Dios se acerca y nos cubre con Su protección. Al confiar en Él, el corazón encuentra seguridad.\n\nHoy recuerda que Dios es tu amparo y fortaleza. Refúgiate en Él y permite que te sostenga en toda circunstancia.",
+      "prayer": "Señor, en medio de la adversidad, confío en que Tú eres mi fortaleza.",
+      "premium": true
+    },
+    {
+      "id": "fortaleza-8",
+      "title": "Fortaleza renovada cada día",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Lamentaciones 3:22-23 — Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+      "content": "Dios no solo nos da fortaleza una vez, sino que la renueva cada día. Su misericordia se manifiesta constantemente, ofreciéndonos nuevas fuerzas para enfrentar cada jornada.\n\nLa fortaleza diaria nos permite levantarnos con esperanza, aun después de días difíciles. Dios no se cansa de sostenernos ni de extender Su gracia.\n\nCada mañana es una oportunidad para recibir fuerzas renovadas y confiar nuevamente en Dios. Su fidelidad es inagotable.\n\nHoy recibe la fortaleza que Dios te ofrece y comienza el día confiando en Su misericordia.",
+      "prayer": "Señor, gracias por renovar mis fuerzas cada mañana.",
+      "premium": true
+    },
+    {
+      "id": "fortaleza-9",
+      "title": "Fortaleza para no rendirse",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Gálatas 6:9 — No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos.",
+      "content": "El cansancio puede llevarnos a pensar en rendirnos, especialmente cuando no vemos resultados inmediatos. Dios nos anima a perseverar y a no desmayar, recordándonos que todo esfuerzo hecho con fe tiene recompensa.\n\nLa fortaleza para no rendirse proviene de confiar en el tiempo de Dios. Él ve cada esfuerzo y conoce cada lucha silenciosa.\n\nCuando continuamos haciendo el bien, aun en medio del cansancio, nuestra fe se fortalece y nuestro carácter se forma.\n\nHoy decide no rendirte. Confía en que Dios obrará en el momento adecuado y te dará la fortaleza para continuar.",
+      "prayer": "Señor, dame fortaleza para no rendirme y confiar en Tu tiempo perfecto.",
+      "premium": true
+    },
+    {
+      "id": "fortaleza-10",
+      "title": "Fortaleza que sostiene hasta el final",
+      "category": "fortaleza",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "readTime": 6,
+      "verse": "Filipenses 4:13 — Todo lo puedo en Cristo que me fortalece.",
+      "content": "La fortaleza que proviene de Cristo nos sostiene en cada etapa de la vida. No se trata de una fuerza ilimitada humana, sino de una dependencia constante en Aquel que nos fortalece.\n\nCristo nos capacita para enfrentar desafíos, perseverar en la prueba y avanzar con fe. Su fortaleza no falla ni se agota.\n\nCuando confiamos en Él, encontramos la fuerza necesaria para seguir adelante hasta el final.\n\nHoy declara que tu fortaleza viene de Cristo y confía en que Él te sostendrá siempre.",
+      "prayer": "Señor Jesús, confío en que Tú eres mi fortaleza en todo momento.",
+      "premium": true
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "gratitud-1",
+      "title": "Un corazón agradecido transforma la vida",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "1 Tesalonicenses 5:18 — Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+      "content": "La gratitud es una actitud que transforma la manera en que vemos la vida. No se trata únicamente de agradecer cuando todo va bien, sino de aprender a reconocer la mano de Dios aun en medio de las dificultades. Un corazón agradecido no ignora los problemas, pero decide enfocarse en la fidelidad de Dios.\n\nDar gracias en todo no significa celebrar el dolor, sino confiar en que Dios puede usar cada situación para nuestro bien. Cuando cultivamos la gratitud, nuestra perspectiva cambia y el corazón se llena de paz. La gratitud nos ayuda a recordar que Dios sigue siendo bueno, incluso cuando las circunstancias no son fáciles.\n\nMuchas veces nos enfocamos en lo que falta y olvidamos lo que ya hemos recibido. La gratitud nos invita a detenernos y reconocer las bendiciones diarias, grandes o pequeñas, que Dios derrama sobre nosotros. Cada nuevo día, cada oportunidad y cada muestra de amor es motivo de agradecimiento.\n\nUn corazón agradecido se vuelve más sensible a la presencia de Dios. Al agradecer, fortalecemos nuestra fe y renovamos nuestra confianza en Él. La gratitud abre la puerta a la alegría y nos permite vivir con esperanza.\n\nHoy decide cultivar un corazón agradecido. Reconoce la obra de Dios en tu vida y permite que la gratitud transforme tu manera de vivir.",
+      "prayer": "Señor, enséñame a vivir con un corazón agradecido en toda circunstancia.",
+      "premium": false
+    },
+    {
+      "id": "gratitud-2",
+      "title": "Agradecer aun en la prueba",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Salmos 107:1 — Alabad a Jehová, porque Él es bueno; porque para siempre es Su misericordia.",
+      "content": "Agradecer cuando la vida es fácil resulta sencillo, pero hacerlo en medio de la prueba requiere fe y madurez espiritual. La gratitud en tiempos difíciles no surge de las circunstancias, sino de la confianza en la bondad y la misericordia de Dios.\n\nDios sigue siendo bueno aun cuando atravesamos momentos de dolor. Su misericordia no depende de nuestra situación actual; permanece constante y fiel. Agradecer en la prueba nos ayuda a recordar que Dios no nos ha abandonado y que sigue obrando en nuestro favor.\n\nLa gratitud en medio de la dificultad fortalece el corazón y evita que el desánimo tome control. Al agradecer, reconocemos que Dios tiene el control y que Su amor no falla. Esta actitud produce paz y esperanza.\n\nMuchas veces la prueba nos enseña lecciones que no aprenderíamos de otra manera. Al agradecer, permitimos que Dios transforme el dolor en crecimiento espiritual.\n\nHoy, aun si estás atravesando una prueba, elige agradecer. Confía en la bondad de Dios y permite que la gratitud fortalezca tu fe.",
+      "prayer": "Señor, aun en medio de la prueba, elijo agradecerte por Tu bondad y misericordia.",
+      "premium": false
+    },
+    {
+      "id": "gratitud-3",
+      "title": "La gratitud que honra a Dios",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "Salmos 50:23 — El que sacrifica alabanza me honrará; y al que ordenare su camino, le mostraré la salvación de Dios.",
+      "content": "La gratitud no solo beneficia nuestro corazón, sino que también honra a Dios. Cuando agradecemos, reconocemos Su soberanía, Su provisión y Su fidelidad. La gratitud es una forma de adoración que expresa nuestra confianza en Él.\n\nHonrar a Dios con gratitud implica reconocer que todo lo que tenemos proviene de Su mano. Cada logro, cada provisión y cada oportunidad es resultado de Su gracia. Al agradecer, ponemos a Dios en el lugar que le corresponde en nuestra vida.\n\nLa gratitud nos ayuda a mantener un corazón humilde y dependiente de Dios. Nos recuerda que no caminamos solos y que Él guía nuestros pasos. Esta actitud fortalece nuestra relación con Él y nos acerca más a Su presencia.\n\nCuando vivimos agradecidos, nuestra fe se fortalece y nuestra vida refleja el carácter de Cristo. La gratitud se convierte en un testimonio visible para los demás.\n\nHoy decide honrar a Dios con un corazón agradecido. Reconoce Su obra en tu vida y permite que la gratitud sea una expresión constante de tu fe.",
+      "prayer": "Señor, quiero honrarte con una vida llena de gratitud y alabanza.",
+      "premium": false
+    }
+  ]
+}
+{
+  "devotionals": [
+    {
+      "id": "gratitud-4",
+      "title": "La gratitud que nace en la escasez",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1500534314209-a26db0f5f2c3?w=800",
+      "readTime": 6,
+      "verse": "Habacuc 3:17-18 — Aunque la higuera no florezca, ni en las vides haya frutos; aunque falte el producto del olivo, y los labrados no den mantenimiento, y las ovejas sean quitadas de la majada, y no haya vacas en los corrales; con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salvación.",
+      "content": "La gratitud auténtica no depende de la abundancia, sino de una confianza profunda en Dios aun en tiempos de escasez. Cuando faltan los recursos, las respuestas o la seguridad, agradecer se convierte en un acto de fe que desafía la lógica humana. Habacuc nos muestra que es posible alegrarse en Dios incluso cuando todo parece faltar.\n\nAgradecer en la escasez no significa negar la necesidad, sino reconocer que Dios sigue siendo suficiente. La gratitud nos ayuda a recordar que nuestra provisión no proviene solo de lo material, sino del cuidado constante de Dios. Él conoce cada necesidad antes de que la expresemos.\n\nCuando agradecemos en medio de la falta, nuestro corazón se fortalece y nuestra fe se profundiza. La gratitud nos mantiene firmes y evita que el temor gobierne nuestras decisiones. Dios utiliza estos momentos para enseñarnos dependencia y confianza.\n\nLa escasez no define nuestra identidad ni nuestro futuro. Dios sigue siendo fiel y Su provisión llega en el momento oportuno.\n\nHoy, aun si enfrentas escasez, elige agradecer. Confía en que Dios es tu fuente y que Su fidelidad nunca falla.",
+      "prayer": "Señor, aun en la escasez, elijo agradecerte y confiar en que Tú eres mi provisión.",
+      "premium": true
+    },
+    {
+      "id": "gratitud-5",
+      "title": "Gratitud que reconoce la fidelidad de Dios",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800",
+      "readTime": 6,
+      "verse": "Salmos 136:1 — Alabad a Jehová, porque Él es bueno, porque para siempre es Su misericordia.",
+      "content": "Reconocer la fidelidad de Dios es una de las expresiones más poderosas de gratitud. A lo largo de nuestra vida, Dios ha mostrado Su bondad una y otra vez, aun en momentos en los que no fuimos conscientes de ello. Agradecer es recordar que Su misericordia nunca se agota.\n\nLa gratitud nos ayuda a mirar hacia atrás y reconocer cómo Dios nos ha sostenido, guiado y protegido. Cada etapa superada es evidencia de Su fidelidad. Aun cuando hemos sido infieles, Dios ha permanecido constante.\n\nCuando cultivamos un corazón agradecido, nuestra fe se fortalece y nuestra confianza en Dios aumenta. La gratitud nos recuerda que no caminamos solos y que Su amor permanece para siempre.\n\nDios merece nuestra alabanza no solo por lo que hace, sino por quién es. Su carácter fiel es digno de gratitud constante.\n\nHoy toma un momento para recordar la fidelidad de Dios en tu vida. Agradece por Su misericordia eterna y confía en que Él seguirá siendo fiel.",
+      "prayer": "Señor, gracias por Tu fidelidad constante y Tu misericordia eterna.",
+      "premium": true
+    },
+    {
+      "id": "gratitud-6",
+      "title": "La gratitud que cambia la perspectiva",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Colosenses 3:15 — Y la paz de Dios gobierne en vuestros corazones, a la que asimismo fuisteis llamados en un solo cuerpo; y sed agradecidos.",
+      "content": "La gratitud tiene el poder de cambiar la manera en que percibimos la vida. Cuando elegimos agradecer, nuestra mente se enfoca menos en lo que falta y más en lo que Dios ya ha provisto. Esta actitud permite que la paz de Dios gobierne nuestro corazón.\n\nSer agradecidos no es ignorar los problemas, sino elegir una perspectiva basada en la fe. La gratitud nos ayuda a reconocer que Dios sigue obrando incluso cuando no vemos resultados inmediatos.\n\nUn corazón agradecido experimenta mayor paz y contentamiento. La gratitud reduce la ansiedad y fortalece la confianza en Dios.\n\nDios nos llama a vivir agradecidos porque sabe que esta actitud protege nuestro corazón.\n\nHoy decide cambiar tu perspectiva a través de la gratitud. Permite que la paz de Dios gobierne tu interior.",
+      "prayer": "Señor, ayúdame a vivir con gratitud y a permitir que Tu paz gobierne mi corazón.",
+      "premium": true
+    },
+    {
+      "id": "gratitud-7",
+      "title": "Gratitud aun cuando no entiendo",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+      "readTime": 6,
+      "verse": "Proverbios 3:5 — Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia.",
+      "content": "Agradecer cuando no entendemos lo que Dios está haciendo requiere una fe madura. En esos momentos, la gratitud se convierte en una expresión de confianza, no de comprensión. Dios nos invita a confiar en Él aun cuando el camino no es claro.\n\nLa gratitud en la incertidumbre nos recuerda que Dios ve el panorama completo. Aunque no entendamos el proceso, podemos confiar en Su sabiduría.\n\nAgradecer sin entender fortalece la fe y nos ayuda a descansar en Dios.\n\nHoy elige agradecer aun sin respuestas, confiando en que Dios obra para bien.",
+      "prayer": "Señor, aun cuando no entiendo, elijo confiar y agradecerte.",
+      "premium": true
+    },
+    {
+      "id": "gratitud-8",
+      "title": "La gratitud que produce contentamiento",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "readTime": 6,
+      "verse": "1 Timoteo 6:6 — Pero gran ganancia es la piedad acompañada de contentamiento.",
+      "content": "El contentamiento nace de un corazón agradecido. Cuando aprendemos a valorar lo que tenemos, dejamos de vivir comparándonos con otros. La gratitud nos enseña a descansar en la provisión de Dios.\n\nDios desea que vivamos satisfechos, confiando en Su cuidado. El contentamiento nos libera de la ansiedad por más.\n\nHoy agradece por lo que tienes y permite que Dios llene tu corazón de contentamiento.",
+      "prayer": "Señor, enséñame a vivir agradecido y contento con lo que Tú me das.",
+      "premium": true
+    },
+    {
+      "id": "gratitud-9",
+      "title": "Gratitud que se expresa en obediencia",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "readTime": 6,
+      "verse": "Juan 14:15 — Si me amáis, guardad mis mandamientos.",
+      "content": "La gratitud verdadera no se queda solo en palabras, sino que se expresa a través de la obediencia. Cuando obedecemos a Dios, demostramos que valoramos lo que Él ha hecho por nosotros.\n\nObedecer es una respuesta natural a un corazón agradecido. La gratitud nos motiva a vivir conforme a la voluntad de Dios.\n\nHoy permite que tu gratitud se refleje en una vida de obediencia.",
+      "prayer": "Señor, quiero expresar mi gratitud obedeciendo Tu palabra.",
+      "premium": true
+    },
+    {
+      "id": "gratitud-10",
+      "title": "La gratitud que glorifica a Dios",
+      "category": "gratitud",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "readTime": 6,
+      "verse": "Salmos 95:2 — Lleguemos ante Su presencia con alabanza; aclamémosle con cánticos.",
+      "content": "La gratitud culmina en alabanza. Cuando agradecemos, glorificamos a Dios y reconocemos Su grandeza. La alabanza es una expresión pública y privada de un corazón agradecido.\n\nDios se agrada de un corazón que reconoce Su obra y Su fidelidad. La gratitud glorifica a Dios y fortalece nuestra fe.\n\nHoy vive agradecido y permite que tu vida glorifique a Dios en todo.",
+      "prayer": "Señor, quiero glorificarte con un corazón lleno de gratitud.",
+      "premium": true
+    }
+  ]
+}
